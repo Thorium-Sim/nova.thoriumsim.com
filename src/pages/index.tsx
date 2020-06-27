@@ -9,6 +9,7 @@ import styled from "@emotion/styled";
 const StaticBackground = styled.div`
   width: 105%;
   height: 95vh;
+  max-height: 750px;
   position: absolute;
   overflow: hidden;
   top: 0;
@@ -55,7 +56,7 @@ const App = () => {
   const { page } = useStaticQuery(query);
   return (
     <Layout>
-      <SEO title="Thorium Nova" image={page.hero.seo.src} />
+      <SEO title="Thorium Nova" image={page.hero.seo.fixed.src} />
       <StaticBackground>
         <Img fluid={page.hero.full.fluid} />
       </StaticBackground>
