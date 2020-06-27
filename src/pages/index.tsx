@@ -55,11 +55,7 @@ const App = () => {
   const { page } = useStaticQuery(query);
   return (
     <Layout>
-      <SEO
-        title="Thorium Nova"
-        image={page.hero.seo.src}
-        pathname={location.href}
-      />
+      <SEO title="Thorium Nova" image={page.hero.seo.src} />
       <StaticBackground>
         <Img fluid={page.hero.full.fluid} />
       </StaticBackground>
