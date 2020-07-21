@@ -78,7 +78,7 @@ const Input = styled.input`
   height: 100%;
   min-width: 200px;
   transition: all ease-out 200ms;
-  color: #333;
+  color: ${({ theme }) => theme.colors.articleText};
   &:focus {
     outline: none;
     border-color: #1677be;
