@@ -1,7 +1,7 @@
 ---
 title: Announcing Thorium Nova
 author: Alex Anderson
-date: 2020-06-26
+date: 2020-07-21
 hero: ./images/hero.jpg
 excerpt: Thorium Nova is bridge simulator software reimagined, combining action and narrative for a truly exciting experience.
 ---
