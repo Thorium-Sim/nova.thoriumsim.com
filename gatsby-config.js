@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Thorium Nova`,
-    name: `Fyreworks LLC`,
+    name: `Thorium Nova`,
     siteUrl: `https://nova.thoriumsim.com`,
     description: `A reimagination of bridge simulator controls focused on balancing action and narrative.`,
     hero: {
