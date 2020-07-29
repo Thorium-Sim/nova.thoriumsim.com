@@ -20,6 +20,7 @@ import ArticleSEO from "@narative/gatsby-theme-novela/src/sections/article/Artic
 import ArticleShare from "@narative/gatsby-theme-novela/src/sections/article/Article.Share";
 
 import { Template } from "@types";
+import SignupForm from "../../../components/signupForm";
 
 const siteQuery = graphql`
   {
@@ -95,7 +96,7 @@ const Article: Template = ({ pageContext, location }) => {
           <ArticleShare />
         </MDXRenderer>
       </ArticleBody>
-      {mailchimp && article.subscription && <Subscription />}
+      <SignupForm />
       {next.length > 0 && (
         <NextArticle narrow>
           <FooterNext>More articles from {name}</FooterNext>
