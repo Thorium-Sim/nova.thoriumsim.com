@@ -1,8 +1,9 @@
 ---
-title: Concepts
+title: Update 1 - Concepts
 author: Alex Anderson
 date: 2020-07-29
 hero: ./images/hero.jpg
+tags: [update]
 excerpt: New simulator controls with a new audience require a reimagining of some core concepts.
 ---
 
