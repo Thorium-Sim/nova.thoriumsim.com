@@ -18,13 +18,3 @@ This is just one variety of star, but the appearance could easily be altered to 
 ![Upload Form](images/upload.gif)
 
 Finally, I worked on an interface for uploading a logo and model for the ships in the 3D universe. Since I have the model, I can easily generate a side and top view without any other input from the user. This hopefully will make it really easy to add new ships.
-
-## Questions
-
-- Now I would love to ask a few questions about how the Star Map should work. Reply to this email with your thoughts.
-- How much space should the Star Map display? Should it show an entire galaxy? Or only one small section of stars? Note that the idea is if you can see it on the star map, you can fly to it.
-- How long should it take to fly between two nearby planetary systems, eg. from Sol to Alpha Centauri, a distance of 4 lightyears?
-- How much space should a crew be able to traverse in a 1 hour flight? Should it be possible to fly from one side of the star map to the other? Why might that be a good or bad thing?
-- What kinds of things do you want to see or do when looking at the Interstellar Star Map (the map that shows different planetary systems)?
-
-Do you have a response to any of these questions? [Join us on Discord.](https://discord.com/invite/BxwXaUB)
