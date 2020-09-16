@@ -1,5 +1,5 @@
 ---
-title: Update 6 - Moons, Measurements, and Search
+title: Update 7 - Moons, Measurements, and Search
 author: Alex Anderson
 date: 2020-09-08
 hero: ../../pages/landing/images/hero.jpg
