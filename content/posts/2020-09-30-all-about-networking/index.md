@@ -61,7 +61,7 @@ Why would you ever want to use UDP? If you are sending a message that needs to a
 
 UDP is also often used for real time video games. Suppose we’re playing multiplayer StarCraft. We’re watching our units move across the map, and a single network message drops and doesn’t arrive. The game is programmed to handle these situations. It likely knows roughly where the units are moving, so it will pretend that it got the message and keep moving the units. Then, when it gets the next message, it will adjust where the units are going appropriately. If enough messages don’t make it, though, the game won’t have enough information to know what to do, and will start lagging.
 
-There is a fascinating video about all the strategies video games can take when working with different networking situations. If you’re interested, [you should check it out](https://www.youtube.com/watch?v=Z9X4lysFr64&t=850s).
+There is a fascinating video about all the strategies video games can take when working with different networking situations. If you’re interested, [you should check it out](https://www.youtube.com/watch?v=Z9X4lysFr64).
 
 ### Port Forwarding
 
