@@ -1,5 +1,5 @@
 ---
-title: How Do We Stop This Thing?!
+title: How Do We Stop This Thing
 author: Alex Anderson
 date: 2020-10-14
 hero: ./images/hero.jpg
