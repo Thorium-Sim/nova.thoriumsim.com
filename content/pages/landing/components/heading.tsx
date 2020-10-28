@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "@emotion/styled";
-
+import { Button } from "../../../../src/components/signupForm";
+import { FaDiscord } from "react-icons/fa";
 const HeaderImage = styled.img`
   max-width: 100%;
   padding: 0 2rem;
@@ -41,6 +42,39 @@ const HeadingWrapper = styled.div`
   text-align: center;
 `;
 
+const ButtonLink = styled.a`
+  border: 0;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 600;
+  overflow: hidden;
+  padding: 0;
+  position: relative;
+  vertical-align: middle;
+  flex-grow: 1;
+  background: linear-gradient(
+    135deg,
+    rgba(198, 54, 189, 1) 0%,
+    rgba(76, 1, 175, 1) 100%
+  );
+
+  &:hover,
+  &:focus {
+    outline: none;
+    & > span {
+      background-color: rgba(0, 0, 0, 0.3);
+    }
+  }
+  & > span {
+    display: block;
+    transition: all 200ms ease-in-out;
+    padding: 12px 24px;
+  }
+`;
+
 const Heading = () => {
   return (
     <HeadingWrapper>
@@ -50,6 +84,16 @@ const Heading = () => {
       />
       <Header>Thorium Nova</Header>
       <Subheader>The Future of Bridge Simulation</Subheader>
+      <ButtonLink
+        data-element="submit"
+        href="https://discord.gg/BxwXaUB"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <span>
+          Join Us On Discord <FaDiscord size="2em" />
+        </span>
+      </ButtonLink>
     </HeadingWrapper>
   );
 };

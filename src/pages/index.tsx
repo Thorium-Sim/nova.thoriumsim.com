@@ -9,7 +9,7 @@ import styled from "@emotion/styled";
 const StaticBackground = styled.div`
   width: 105%;
   height: 95vh;
-  max-height: 750px;
+  max-height: 850px;
   position: absolute;
   overflow: hidden;
   top: 0;
@@ -23,9 +23,9 @@ const StaticBackground = styled.div`
     height: 95vh;
   }
   @media (min-width: 420px) {
-    height: 80vh;
+    height: 85vh;
     & > * {
-      height: 80vh;
+      height: 85vh;
     }
   }
 `;

@@ -13,6 +13,7 @@ import {
   getWindowDimensions,
   getBreakpointFromTheme,
 } from "@narative/gatsby-theme-novela/src/utils";
+import { FaDiscord } from "react-icons/fa";
 
 const siteQuery = graphql`
   {
@@ -69,6 +70,9 @@ const NavigationHeader: React.FC<{}> = ({}) => {
         </LogoLink>
         <NavControls>
           <Link to="blog">Blog</Link>
+          <Link to="https://discord.gg/BxwXaUB">
+            <FaDiscord size="1.7em" color="#7289DA" />
+          </Link>
           <DarkModeToggle />
         </NavControls>
       </NavContainer>
@@ -143,7 +147,9 @@ const NavControls = styled.div`
   position: relative;
   display: flex;
   align-items: center;
-
+  & > * {
+    margin-right: 2rem;
+  }
   ${mediaqueries.phablet`
     right: -5px;
   `}
@@ -186,7 +192,6 @@ const IconWrapper = styled.button<{ isDark: boolean }>`
   align-items: center;
   justify-content: center;
   transition: opacity 0.3s ease;
-  margin-left: 30px;
 
   &:hover {
     opacity: 1;

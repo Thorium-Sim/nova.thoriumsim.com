@@ -35,7 +35,7 @@ const Header = styled.h2`
   margin-bottom: 2rem !important;
 `;
 
-const Button = styled.button`
+export const Button = styled.button`
   border: 0;
   color: #ffffff;
   cursor: pointer;
@@ -125,6 +125,10 @@ const Container = styled.div`
   justify-content: center;
 `;
 
+const Center = styled.div`
+  text-align: center;
+`;
+
 const SignupForm = () => {
   return (
     <Container>
@@ -153,9 +157,9 @@ const SignupForm = () => {
               <span>Subscribe</span>
             </Button>
           </Fields>
-          <div data-element="guarantee">
+          <Center data-element="guarantee">
             We won't send you spam. Unsubscribe at any time.
-          </div>
+          </Center>
           <PoweredBy
             href="https://convertkit.com?utm_source=dynamic&amp;utm_medium=referral&amp;utm_campaign=poweredby&amp;utm_content=form"
             data-element="powered-by"
