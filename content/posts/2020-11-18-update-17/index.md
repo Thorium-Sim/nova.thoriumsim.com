@@ -1,5 +1,5 @@
 ---
-title: Update 16 - Spawning Ships
+title: Update 17 - Spawning Ships
 author: Alex Anderson
 date: 2020-11-17
 hero: ../../pages/landing/images/hero.jpg
