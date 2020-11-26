@@ -1,5 +1,5 @@
 ---
-title: Update 16 - Spawning Ships
+title: Update 18 - Quick Start Flights
 author: Alex Anderson
 date: 2020-11-25
 hero: ../../pages/landing/images/hero.jpg
