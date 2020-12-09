@@ -17,7 +17,7 @@ Of course, every station complement will have openings for the Viewscreen and, i
 
 Once you get a number of clients connected - that's the individual player computers and browser windows connecting to the host server - you'll see them on the Flight Lobby screen. The names are automatically generated (I personally enjoyed "Starship Folly"), but each client can choose to rename themselves. Assigning clients to a ship and station is as easy as choosing it from the Unassigned list and clicking the 'Assign Client' button next to the station you want it assigned to.
 
-![Flight Assignment](images/flight%20assignment.gif)
+![Flight Assignment](images/flight-assignment.gif)
 
 In the future, I'll make it so 1) clients remember what ship and station they were assigned to, so they automatically connect and 2) you can create Bridge Configurations that automatically assign clients to specified ships and stations. That second one is intended to be used by permanent bridges.
 
