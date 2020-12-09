@@ -22,3 +22,19 @@ Once you get a number of clients connected - that's the individual player comput
 In the future, I'll make it so 1) clients remember what ship and station they were assigned to, so they automatically connect and 2) you can create Bridge Configurations that automatically assign clients to specified ships and stations. That second one is intended to be used by permanent bridges.
 
 There will also be a Client Lobby for any clients that have connected to the server but haven't joined. They'll be able to choose their own ship and station, unless the host has disabled that ability.
+
+### Themes
+
+One of the most requested features of Thorium Classic is new layouts. Apparently people really like being able to customize and personalize the way the crew stations look. In Thorium Classic, there's a bit of programming know-how necessary to create a layout, so to date only one person other than myself has ever made a layout for Thorium.
+
+That's changing with Thorium Nova! I've simplified and enhanced the layout system making it possible for anyone to create a theme. Themes can be applied on a per-station or per-ship basis and control the appearance of the crew's controls.
+
+![Theme](images/theme.gif)
+
+I've created a theme editor that gives you a preview of the crew station, including a special card that shows any control elements, like buttons, list, input fields, etc. Below that is a code editor that lets you write CSS or [LESS](http://lesscss.org/) code, giving you unfettered access to the style of the screen. Yes, anyone who wants to create themes will need to know CSS, but CSS is a fairly approachable language, and I'll make sure all of the styleable elements in Thorium Nova are well documented. Plus I'm planning on including most of the existing Thorium Classic layouts as themes, so you can use them as templates.
+
+On the right side, there is an area where you can upload assets. For this theme, I've uploaded custom font files; you can also upload images to use in your theme.
+
+Thorium Classic currently has 10 layouts built-in; the way that I've designed this system should make it possible for all of those layouts to be replicated as themes. If that isn't flexibility, I don't know what is.
+
+I've also built out all of the logic and screens for clients to assign themselves to stations, and for displaying the crew station inside of its frame. With all of that infrastructure in place, I can start on the more exciting parts: building cards that can control the ship. Stay tuned!
