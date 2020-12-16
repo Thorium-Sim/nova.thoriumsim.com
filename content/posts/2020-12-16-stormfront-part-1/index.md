@@ -7,7 +7,7 @@ tags: [essay]
 excerpt: The crew is assigned to provide security during diplomatic negotiations. What could possibly go wrong?
 ---
 
-> This post is the second in a series that describes a complete 5 hour mission that I wrote when I worked at the [Christa McAuliffe Space Center](https://spacecenter.alpineschools.org/). You can read the [mission briefing here](https://nova.thoriumsim.com/blog/Stormfront-Briefing).
+_This post is the second in a series that describes a complete 5 hour mission that I wrote when I worked at the [Christa McAuliffe Space Center](https://spacecenter.alpineschools.org/). You can read the [mission briefing here](https://nova.thoriumsim.com/blog/Stormfront-Briefing)._
 
 You recall that the crew's mission is to escort the USS Lexington to Lecia, a planet-state that is interested in joining the Federation. The Lexington will perform all negotiations; the crew's ship is there for security. They are also supposed to investigate the enigmatic Captain General Lucius to make sure he isn't a wild card.
 
@@ -23,7 +23,7 @@ The crew's ship receives a message from the Lexington stating that the Ambassado
 
 They are then hailed by one of the military ships. It is none other than Captain General Lucius, on board one of the military vessels. The Captain General welcomes the crew's ship and asks what the crew's ship plans on doing during the long talks. “Politicians can be very long-winded...I hope you brought something good for the holosuite!” he jokes. Lucius is impressed by the crew's ship and asks if he can have a tour to pass the time. When the Captain General insists that he come visit, hinting that their declining might negatively impact the negotiations, the crew relents and allows the Captain General aboard.
 
-> Note: this section of the mission all but requires the crew to be in the same physical location; having physical interactions over the internet isn’t really possible. Flight Directors can improvise for internet flights, such as having the Captain General send a present to the crew's cargo bay instead of coming in person.
+_Note: this section of the mission all but requires the crew to be in the same physical location; having physical interactions over the internet isn’t really possible. Flight Directors can improvise for internet flights, such as having the Captain General send a present to the crew's cargo bay instead of coming in person._
 
 Lucius looks around the bridge, and asks the crew some questions about the ship, their opinions regarding Lecia joining the Federation, etc, letting the crew get a feel for how the Captain General behaves. Lucius is cordial and slightly arrogant, but very gracious and friendly, sharing war stories, making jokes, getting the crew’s trust, etc.
 
@@ -33,7 +33,7 @@ Things return to normal. The crew gets a little bored. They watch the news surro
 
 The military regiments have now rolled into the capital and have surrounded the government offices. They get a video stream of the grand hall and watch as armed soldiers suddenly burst into the stateroom and take everyone hostage, knocking out guards, etc. The President, captain, and ambassador are captured.
 
-> Note: All of the footage mentioned above is pre-recorded with actors or clips taken from other videos, and displayed on the viewscreen. The purpose is to make the crew see what is happening and try to react, but ultimately feel powerless.
+_Note: All of the footage mentioned above is pre-recorded with actors or clips taken from other videos, and displayed on the viewscreen. The purpose is to make the crew see what is happening and try to react, but ultimately feel powerless._
 
 In their moment of horror, an energy shock goes through the crew's ship and systems shut down. The “gift” which Lucius gave to the crew was an EMP! It took out all of the power on the crew’s ship, and they have to work frantically to restore power to their stations.
 
