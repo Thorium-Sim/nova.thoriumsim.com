@@ -13,7 +13,7 @@ I've begun work on a new screen used for navigation. The Flight Control screen t
 
 The Thorium Classic navigation screen looks something like this:
 
-[Old Navigation](images/old-nav.jpeg)
+![Old Navigation](images/old-nav.jpeg)
 
 There are a number of problems with this:
 
@@ -24,7 +24,7 @@ There are a number of problems with this:
 
 I'm fixing all of those problems in Thorium Nova with the new Navigation screen. Check it out:
 
-[New Navigation](images/new-nav.jpeg)
+![New Navigation](images/new-nav.jpeg)
 
 - You can see all of the possible destinations within the solar system, and can navigate anywhere in interstellar space too.
 - Courses are set by setting waypoints (the little orange flag), and then using thrusters from the Flight Control screen to point the ship at the waypoint.
@@ -33,11 +33,11 @@ I'm fixing all of those problems in Thorium Nova with the new Navigation screen.
 
 This screen is integrated with both the Flight Control screen and the Viewscreen. On the Flight Control screen, they can see the waypoint arrow pointing in the direction their ship needs to be pointing, so if it is directly ahead, they know they are going the right way (just make sure to tilt the screen to make sure the ship is lined up on the Y axis).
 
-[Pilot Navigation](images/pilot.jpeg)
+![Pilot Navigation](images/pilot.jpeg)
 
 On the viewscreen, the waypoint arrow appears at the edge of the screen showing which direction the ship needs to turn. Notice the arrow right next to the planet, and another arrow pointing off towards an off-screen waypoint. By using the Viewscreen and the Flight Control screen together, the Flight Control officer can easily rotate the ship to make sure it's going the right way.
 
-[Viewscreen Navigation](images/viewscreen.jpeg)
+![Viewscreen Navigation](images/viewscreen.jpeg)
 
 ### Warp Engines
 
@@ -49,8 +49,8 @@ One thing that I've discovered as I've played with Warp Engines is that it is IN
 
 That being said, I still want to make it possible to change course while at Warp speed, so any adjustment of the thrusters will automatically disable the course lock. The image of changing course while at Warp speed is actually pretty spectacular.
 
-[Warp Stars 1](images/warp-stars-1.gif)
-[Warp Stars 2](images/warp-stars-2.gif)
+![Warp Stars 1](images/warp-stars-1.gif)
+![Warp Stars 2](images/warp-stars-2.gif)
 
 ### Other Adjustments
 

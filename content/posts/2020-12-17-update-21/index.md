@@ -7,7 +7,7 @@ tags: [update]
 excerpt: The Flight Control station gets even more updates, with thruster and impulse engine control.
 ---
 
-[Flight Control](images/flight.gif)
+![Flight Control](images/flight.gif)
 
 The Flight Control card is mostly complete! I'm sure there will be tweaks later on, but this is how it will likely look.
 
